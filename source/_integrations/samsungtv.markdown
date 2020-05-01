@@ -92,6 +92,7 @@ For example: for model `UN55NU7100`, the `UN55` would mean it's an LED, North Am
 - ES6300
 - ES6710 (WOL doesn't work, Off works fine)
 - ES6800
+- ES8090
 - F4580
 - F6300
 - F6400
